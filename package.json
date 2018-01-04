@@ -1,0 +1,24 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "#### HW #9 for The Coding Bootcamp at UT Austin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szunjic/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szunjic/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/szunjic/Constructor-Hangman#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "inquirer": "^4.0.2",
+    "prompt": "^1.0.0"
+  }
+}
